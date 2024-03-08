@@ -1,5 +1,0 @@
-python3 -m bin.local_search --scenario experiments/results/RandomSearch/UniformSelector/trial_0/scenario.ini --algo RandomSearch --seed 0 --output_dir experiments/results/RandomSearch/UniformSelector/trial_0
-python3 -m bin.local_search --scenario experiments/results/FYPLocalSearch/UniformSelector/trial_0/scenario.ini --algo FYPLocalSearch --seed 0 --output_dir experiments/results/FYPLocalSearch/UniformSelector/trial_0
-python3 -m bin.local_search --scenario experiments/results/RandomSearch/EpsilonGreedy/trial_0/scenario.ini --algo RandomSearch --seed 0 --output_dir experiments/results/RandomSearch/EpsilonGreedy/trial_0
-python3 -m bin.local_search --scenario experiments/results/FYPLocalSearch/EpsilonGreedy/trial_0/scenario.ini --algo FYPLocalSearch --seed 0 --output_dir experiments/results/FYPLocalSearch/EpsilonGreedy/trial_0
-python3 -m bin.local_search --scenario experiments/results/RandomSearch/ProbabilityMatching/trial_0/scenario.ini --algo RandomSearch --seed 0 --output_dir experiments/results/RandomSearch/ProbabilityMatching/trial_0
